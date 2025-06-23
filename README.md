@@ -1,4 +1,4 @@
-# Plant-Disease-Classification-Using-Deep-Learning# 🌱 Plant Disease Classification Using Deep Learning
+# 🌱 Plant Disease Classification Using Deep Learning
 
 This project is a simple Flask-based web application that uses a Convolutional Neural Network (CNN) to classify plant diseases into three categories: **Healthy**, **Powdery**, and **Rust**. It provides a simple interface for uploading plant images and receiving predictions.
 
